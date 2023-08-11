@@ -13,7 +13,7 @@ export const MainMenu = () => {
           title="Home"
         >
           <Avatar className="">
-            <AvatarImage src="/ai-icon.png" />
+            <AvatarImage src="https://www.hso.com/media/md5m4bfn/logo_hso.svg" />
           </Avatar>
         </Link>
         <Link
